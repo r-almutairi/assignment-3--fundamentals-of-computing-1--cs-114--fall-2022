@@ -2,6 +2,7 @@
 
 !README.md
 !Makefile
+!.editorconfig
 !.gitignore
 !Matrix.java
 !RunMatrix.java
