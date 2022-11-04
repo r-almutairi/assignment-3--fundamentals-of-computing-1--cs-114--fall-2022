@@ -34,7 +34,7 @@ This repo contains the following files, all required to carry out this assignmen
 04. `Matrix.java` — Where the entire `Matrix` class and its methods will be defined.
 05. `RunMatrix.java` — Method `main` goes in this file, along withe the instantiation of the `Matrix` object and all the required behaviour.
 
-**All your code must go only in the `.java` files in steps 4 and 5**
+**All your code may only be written in the `.java` files of this project’s scaffold.**
 
 ---
 
