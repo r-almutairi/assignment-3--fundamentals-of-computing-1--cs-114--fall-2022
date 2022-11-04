@@ -31,7 +31,7 @@ This repo contains the following files, all required to carry out this assignmen
 01. `Makefile` — Run `make` in your command line interface, or CLI, from this repo’s root folder to build your assignment. As you test input, run `make run` to _only_ run a previously-compiled Java program, not compile it. Run `make clean` to remove the class file.
 02. `.editorconfig` — Everything in this file is a redundancy of what’s already in the `.editorconfig` file you installed in your home folder. It’s here to make sure you’re working with the formatting rules defined in `.editorconfig`, as this is part of your grade. **Do not move this file.** Also, **ensure EditorConfig is working in VS Code, _before_ beginning this assignment.**
 03. `.gitignore` — **Do not modify this file.**
-04. `Matrix.java` — Where the entire `Matrix` class and its methods should be defined.
+04. `Matrix.java` — Where the entire `Matrix` class and its methods will be defined.
 05. `RunMatrix.java` — Method `main` goes in this file, along withe the instantiation of the `Matrix` object and all the required behaviour.
 
 **All your code must go only in the `.java` files in steps 4 and 5**
