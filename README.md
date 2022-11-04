@@ -60,7 +60,7 @@ This repo contains the following files, all required to carry out this assignmen
 ---
 
 ## ❖ Due ❖
-Wednesday, 18 November 2022, at 5:00 PM.
+Friday, 18 November 2022, at 5:00 PM.
 
 ---
 
